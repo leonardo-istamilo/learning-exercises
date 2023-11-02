@@ -2,6 +2,11 @@
 
 Este repositório tem como objetivo disponibilizar os exercícios e projetos feitos por mim durante minha jornada acadêmica no curso de Ciência da Computação. O intuito é ajudar aqueles que desejam aprender programação, seja na universidade ou estudando por conta própria.
 
+
+---
+## LISTAS DE EXERCICIOS:
+## Lista I
+
 Ex001: Faça um Programa que peça um número e então mostre a mensagem: O número informado foi [número].  [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/main/Exercicios/Python_Periodo1/Lista%20I/Ex001.py)
 
 Ex002: Faça um Programa que peça dois números e imprima a soma. [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/main/Exercicios/Python_Periodo1/Lista%20I/Ex002.py)
@@ -73,4 +78,6 @@ calcule os descontos e o salário líquido, conforme a tabela abaixo:
 
 [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/main/Exercicios/Python_Periodo1/Lista%20I/Ex020.py)
 
+---
+## Lista II
 

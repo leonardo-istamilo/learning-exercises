@@ -1,16 +1,20 @@
-'''Exercicio 40 - Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é: par ou ímpar; positivo ou negativo; inteiro ou decimal.'''
+""" Exercicio 40 - Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é: par ou ímpar; positivo ou negativo; inteiro ou decimal. """
 
-# Exercicio 40
+
 from math import trunc
+
 n1 = float(input('Digite um número: '))
 n2 = float(input('Digite outro número: '))
 print()
-print('''1 - Soma
-2 - subtração
-3 - Divisão
-4 - Multiplicação
-5 - Potênciação
-6 - Radiciação ''')
+print('''
+    1 - Soma
+    2 - subtração
+    3 - Divisão
+    4 - Multiplicação
+    5 - Potênciação
+    6 - Radiciação 
+      ''')
+
 operacao = int(input(
     ' Por favor, digite o número correspondente a operação que deseja realizar: '))
 

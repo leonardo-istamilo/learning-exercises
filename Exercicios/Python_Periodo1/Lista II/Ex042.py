@@ -1,4 +1,4 @@
-'''Exercicio 42 - Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+""" Exercicio 42 - Um posto está vendendo combustíveis com a seguinte tabela de descontos:
 
 Álcool:
 
@@ -12,9 +12,9 @@ até 20 litros, desconto de 4% por litro
 
 acima de 20 litros, desconto de 6% por litro.
 
-Escreva um programa que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R 2,50opreçodolitrodoálcooléR  1,90.'''
+Escreva um programa que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R 2,50opreçodolitrodoálcooléR  1,90. """
 
-#Exercicio 42
+
 tipo_combustivel = input('Digite o tipo de combustivel, A - Álcool, B - Gasolina: ')
 if tipo_combustivel == 'G' or tipo_combustivel == 'g' or tipo_combustivel == 'a' or tipo_combustivel == 'A':
     litros = float(input('Digite a quantidade de litros: '))

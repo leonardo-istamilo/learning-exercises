@@ -1,4 +1,4 @@
-'''Exercicio 43 - Uma fruteira está vendendo frutas com a seguinte tabela de preços:
+""" Exercicio 43 - Uma fruteira está vendendo frutas com a seguinte tabela de preços:
 
 Até 5 Kg Acima de 5 Kg
 
@@ -6,9 +6,9 @@ Morango R 2,50porKgR  2,20 por Kg
 
 Maçã R 1,80porKgR  1,50 por Kg
 
-Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.'''
+Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente. """
 
-# Exercicio 43
+
 macas = float(input('Digite a quantidade de maças, em kg: '))
 morangos = float(input('Digite a quantidade de morango, em kg: '))
 desconto_10_percentual = 0.90  # 10% de desconto

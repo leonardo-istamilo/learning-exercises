@@ -1,4 +1,5 @@
-'''Exercicio 26 - Faça um Programa que leia três números e mostre o maior deles.'''
+""" Exercicio 26 - Faça um Programa que leia três números e 
+mostre o maior deles. """
 
 n1 = float(input('Digite o 1º número: '))
 n2 = float(input('Digite o 2º número: '))

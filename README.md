@@ -9,7 +9,9 @@ Dica: Abra a resolução somente após tentar resolver os exercícios sozinho.
 
 
 ## Lista I
-Obs.: Add link do readme lista I
----
+
+[Link para lista I](Exercicios/Python_Periodo1/Lista I/01 - Lista I.md)
+
 ## Lista II
-Obs.: Add link do readme lista II
+
+[Link para lista II](https://github.com/leonardo-istamilo/Exercicios-Python/blob/main/Exercicios/Python_Periodo1/)

@@ -7,9 +7,13 @@ Ex023: Faça um Programa que peça um valor e mostre na tela se o valor é posit
 Ex024: Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido. [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/Ex024.py)
 
 Ex025: Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar: 
-A mensagem "Aprovado", se a média alcançada for maior ou igual a sete; 
-A mensagem "Reprovado", se a média for menor do que sete; 
-A mensagem "Aprovado com Distinção", se a média for igual a dez. 
+
+  A mensagem "Aprovado", se a média alcançada for maior ou igual a sete; 
+  
+  A mensagem "Reprovado", se a média for menor do que sete; 
+  
+  A mensagem "Aprovado com Distinção", se a média for igual a dez. 
+  
 [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/Ex025.py)
 
 Ex026: Faça um Programa que leia três números e mostre o maior deles. [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/Ex026.py) 

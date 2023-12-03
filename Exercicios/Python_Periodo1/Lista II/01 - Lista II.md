@@ -44,7 +44,9 @@ Após o aumento ser realizado, informe na tela:
     o salário antes do reajuste; 
     
     o percentual de aumento aplicado; 
+    
     o valor do aumento; 
+    
     o novo salário, após o aumento. 
     
 [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/Ex029.py)
@@ -63,11 +65,20 @@ Entre 7.5 e 9.0   | B
 Entre 6.0 e 7.5   | C
 Entre 4.0 e 6.0   | D
 Entre 4.0 e zero  | E
+
 [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/Ex032.py)
 
 
-Ex033: Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno. 
-Dicas: Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro; Triângulo Equilátero: três lados iguais; Triângulo isósceles: quaisquer dois lados iguais; Triângulo Escaleno: três lados diferentes; 
+Ex033: Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
+
+Dicas: Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;
+
+    a) Triângulo Equilátero: três lados iguais; 
+    
+    b) Triângulo isósceles: quaisquer dois lados iguais;
+    
+    c) Triângulo Escaleno: três lados diferentes; 
+
 [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/Ex033.py)
 
 
@@ -88,14 +99,7 @@ Ex036: Faça um Programa que peça um número correspondente a um determinado an
 [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/Ex036.py)
 
 
-Ex037: Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar: 
-
-    A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada; 
-    A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada; 
-    A mensagem "Aprovado com Distinção", se a média for igual a 10. 
-    
-[Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/Ex037.py)
-
+Ex037: 
 
 Ex038: Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina. 
 
@@ -111,18 +115,26 @@ Ex039: Faça um Programa que peça um número inteiro e determine se ele é par 
 
 
 Ex040: Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é: 
-  a) par ou ímpar; 
-  b) positivo ou negativo; 
-  c) inteiro ou decimal. 
+
+    a) par ou ímpar; 
+    
+    b) positivo ou negativo; 
+    
+    c) inteiro ou decimal. 
+    
 [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/Ex040.py)
 
 
 Ex041: Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são: 
 
     "Telefonou para a vítima?" 
+    
     "Esteve no local do crime?" 
+    
     "Mora perto da vítima?" 
+    
     "Devia para a vítima?" 
+    
     "Já trabalhou com a vítima?" 
 
 O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente". 
@@ -132,11 +144,15 @@ O programa deve no final emitir uma classificação sobre a participação da pe
 Ex042: Um posto está vendendo combustíveis com a seguinte tabela de descontos: 
 
                 Álcool: 
+                
     até 20 litros, desconto de 3% por litro 
+    
     acima de 20 litros, desconto de 5% por litro 
     
-                Gasolina: 
+                Gasolina:
+                
     até 20 litros, desconto de 4% por litro 
+    
     acima de 20 litros, desconto de 6% por litro.
     
 Escreva um programa que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90. 
@@ -156,10 +172,15 @@ Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapass
 Ex044: Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias:  
 
     infantil A = 5 - 7 anos; 
+    
     infantil B = 8-10 anos; 
+    
     juvenil A = 11-13 anos; 
+    
     juvenil B = 14-17 anos; 
+    
     adulto = maiores de 18 anos.
+    
 [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/Ex044.py)
 
 

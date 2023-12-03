@@ -10,8 +10,8 @@ Dica: Abra a resolução somente após tentar resolver os exercícios sozinho.
 
 ## Lista I
 
-[Link para lista I](Exercicios/Python_Periodo1/Lista I/01 - Lista I.md)
+[Link para lista I](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20I/01%20-%20Lista%20I.md))
 
 ## Lista II
 
-[Link para lista II](https://github.com/leonardo-istamilo/Exercicios-Python/blob/main/Exercicios/Python_Periodo1/)
+[Link para lista II](https://github.com/leonardo-istamilo/Exercicios-Python/blob/branch/Exercicios/Python_Periodo1/Lista%20II/01%20-%20Lista%20II.md)

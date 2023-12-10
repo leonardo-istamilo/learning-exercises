@@ -1,5 +1,6 @@
 import customtkinter as ctk
 from random import shuffle
+import tkinter
 
 # Configurações iniciais do jogo:
 NUM_LINHAS = 4
@@ -24,29 +25,25 @@ def centralizar_janela(janela):
 def Compara_Cor(botao, cor):
     botao.configure(fg_color=cor)
 
+def Oculta_Botao(botao):
+    botao.pack_forget()  # ou botao.grid_forget(), dependendo de como os botões estão organizados
+
 janela = ctk.CTk()
 janela.title("Jogo da Memória")
 centralizar_janela(janela)
 
-# Criar botões do jogo da memória
-botoes = []
+b1 = ctk.CTkButton(janela, text='b1')
+b1.pack()
 
-for linha in range(NUM_LINHAS):
-    for coluna in range(NUM_COLUNAS):
-        index = linha * NUM_COLUNAS + coluna
-        carta = ctk.CTkButton(
-            master=janela,
-            text="CARTA",
-            width=100,
-            height=120,
-            corner_radius=0,
-            fg_color="Black",
-            command=lambda i=index: Compara_Cor(botoes[i], str(CORES[i]))
-        )
-        carta.place(x=20 + coluna * 120, y=20 + linha * 140)
-        botoes.append(carta)
+b2 = ctk.CTkButton(janela, text='b2')
+b2.place(x=20, y= 50)
 
-# Exemplo de como alterar a cor do primeiro botão após 2 segundos
-janela.after(2000, lambda: Compara_Cor(botoes[0], 'red'))
+b3 = ctk.CTkButton(janela, text='b3')
+b3.pack()
+
+b4 = ctk.CTkButton(janela, text='b4')
+b4.pack()
+
+b2.place_forget()
 
 janela.mainloop()

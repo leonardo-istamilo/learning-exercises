@@ -24,7 +24,7 @@ def Binary_To_Decimal():
                 print('Erro: Valor diferente de 0 e 1 inserido.')
                 return              
 
-        print(f"Valor em decimal: {num_decimal}")
+        print(f"Equivalente em decimal: {num_decimal}")
 
     else:
         print('ERRO: Número digitado possui mais de 8 bits.')

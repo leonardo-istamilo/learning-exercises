@@ -1,0 +1,3 @@
+""" questão 21, Nível 3: Um robô se move em um plano partindo do ponto original (0,0). O robô pode se mover para CIMA, BAIXO, ESQUERDA e DIREITA com determinados passos. O traço do movimento do robô é mostrado a seguir: ATÉ 5 PARA BAIXO 3 ESQUERDA 3 DIREITA 2 ¡ Os números após a direção são passos. Escreva um programa para calcular a distância da posição atual após uma sequência de movimento e o ponto original. Se a distância for flutuante, basta imprimir o número inteiro mais próximo. Exemplo: Se as seguintes tuplas forem fornecidas como entrada para o programa: ATÉ 5 PARA BAIXO 3 ESQUERDA 3 DIREITA 2 Então, a saída do programa deverá ser: 2
+
+Dicas: No caso de dados de entrada serem fornecidos para a pergunta, deve-se assumir que é uma entrada do console. """

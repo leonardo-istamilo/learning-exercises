@@ -203,6 +203,28 @@ Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapass
 
 Ex044: Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias: infantil A = 5 - 7 anos; infantil B = 8-10 anos; juvenil A = 11-13 anos; juvenil B = 14-17 anos; adulto = maiores de 18 anos. [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/main/Exercicios/Python_Periodo1/Ex044.py)
 
+
 Ex045: Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas: para homens: (72.7h) – 58 e para mulheres: (62.1h) - 44.7 (h = altura). [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/main/Exercicios/Python_Periodo1/Ex045.py)
 
+
+Ex066: Faça um programa que receba o valor de uma dívida e mostre uma tabela com os seguintes dados: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela. Os juros e a quantidade de parcelas seguem a tabela abaixo:
+
+Quantidade de Parcelas % de Juros sobre o valor inicial da dívida
+
+1 0%
+
+3 10%
+
+6 15%.
+```
+Exemplo de saída do programa:
+
+Valor da Dívida | Valor dos Juros | Quantidade de Parcelas | Valor da Parcela
+R$ 1.000,00     |        0        |        1               | R$ 1.000,00
+
+R$ 1.100,00     |       100       |       3                | R$ 366,00
+  
+R$ 1.150,00     |      150        |        6               | R$ 191,67
+```
+[Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/main/Exercicios/Python_Periodo1/Ex045.py)
 

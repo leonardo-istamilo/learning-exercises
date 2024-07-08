@@ -1,7 +1,6 @@
 '''Exercicio 29 - As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contrataram para desenvolver o programa que calculará os reajustes. Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual. Salários até R$ 280,00(incluindo): aumento de 20%; salários entre R$ 280,00 e R$ 700,00: aumento de 15%; salários entre R$ 700,00 e R$ 1500,00: aumento de 10%; salários de R$ 1500,00 em diante: aumento de 5%. Após o aumento ser realizado, informe na tela:
 '''
 
-# Exercicio 29
 salario = float(input('Digite o salário, em reais: '))
 if salario <= 0:
     print('Valor inválido.')

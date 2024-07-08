@@ -81,3 +81,5 @@ calcule os descontos e o salário líquido, conforme a tabela abaixo:
 ---
 ## Lista II
 
+Ex022: Faça um Programa que peça dois números e imprima o maior deles.. [Resolução](https://github.com/leonardo-istamilo/Exercicios-Python/blob/main/Exercicios/Python_Periodo1/Lista%20I/Ex022.py)
+

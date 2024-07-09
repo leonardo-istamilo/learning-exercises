@@ -3,8 +3,7 @@
 a) salário bruto.
 b) quanto pagou ao INSS.
 c) quanto pagou ao sindicato.
-d) o salário líquido.
-e) calcule os descontos e o salário líquido, conforme a tabela abaixo:
+d) o salário líquido. calcule os descontos e o salário líquido, conforme a tabela abaixo:
 Salário Bruto : R$
 
 IR (11%) : R$
@@ -14,13 +13,15 @@ Salário Liquido : R$
 Obs.: Salário Bruto - Descontos = Salário Líquido.'''
 
 valor_hora = float(input('Digite quanto você ganha por hora: '))
-numero_hora = float(input('Digite o número de horas que você trabalha no mês: '))
-salario_bruto = valor_hora*numero_hora
+qtd_hora = float(input('Digite a quantidade de horas que você trabalha no mês: '))
+
+salario_bruto = valor_hora*qtd_hora
 imposto_de_renda = salario_bruto*0.11
 inss = salario_bruto*0.08
 sindicato = salario_bruto*0.05
 salario_liquido = salario_bruto - (imposto_de_renda + inss + sindicato)
-print('a) Salario bruto: R$ {} ' .format(salario_bruto))
-print('b) Quanto pagou ao INSS: R$ {} ' .format(inss))
-print('c) Quanto pagou ao sindicato: R$ {}' .format(sindicato))
-print('d) O salário líquido: R$ {}' .format(salario_liquido))
+
+print('\nSalário Bruto: R$ {} ' .format(salario_bruto))
+print('INSS (8%): R$ {} ' .format(inss))
+print('Sindicato (5%): R$ {}' .format(sindicato))
+print('Salário Líquido: R$ {}' .format(salario_liquido))

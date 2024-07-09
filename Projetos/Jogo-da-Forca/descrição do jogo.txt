@@ -1,0 +1,10 @@
+           OBJETIVO:
+.   O jogador terá que adivinhar as letras que compõem uma palavra para que ele possa ganhar o jogo. A cada letra errada um membro do boneco que está na forca é adicionado.
+
+
+                        REGRAS:
+  - O jogador poderá apenas fornecer uma letra por vez;
+  - O jogador poderá errar no máximo CINCO vezes sem perder o jogo;
+  - Caso a letra já tenha sido digitada não será contabilizada como acerto e nem como erro.
+  - Para cada partida será mostrada uma dica e a quantidade de letras da palavra.
+

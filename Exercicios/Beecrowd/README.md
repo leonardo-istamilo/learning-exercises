@@ -14,14 +14,14 @@ descrição...
 
 - [x] [1008](https://judge.beecrowd.com/pt/problems/view/1008) - Salário. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1008%20-%20Fibonacci.c)
 
-- [ ] [1032](https://judge.beecrowd.com/pt/problems/view/1032) - . [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1032%20-%20Fibonacci.c)
+- [ ] [1032](https://judge.beecrowd.com/pt/problems/view/1032) - O Primo de Josephus. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1032%20-%20Fibonacci.c)
 
 - [ ] [1041](https://judge.beecrowd.com/pt/problems/view/1041) - Múltiplos. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1041%20-%20Fibonacci.c)
 
 
 - [x] [1049](https://judge.beecrowd.com/pt/problems/view/1049) - Animal. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1049%20-%20Fibonacci.c)
 
-- [ ] [1110](https://judge.beecrowd.com/pt/problems/view/1110) - . [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1110%20-%20Fibonacci.c)
+- [ ] [1110](https://judge.beecrowd.com/pt/problems/view/1110) - Jogando Cartas Fora. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1110%20-%20Fibonacci.c)
 
 - [x] [1164](https://judge.beecrowd.com/pt/problems/view/1164) - Número Perfeito. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1164%20-%20Fibonacci.c)
 
@@ -34,7 +34,7 @@ descrição...
 
 - [x] [1181](https://judge.beecrowd.com/pt/problems/view/1181) - Linha na Matriz. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1181%20-%20Fibonacci.c)
 
-- [ ] [1221](https://judge.beecrowd.com/pt/problems/view/1221) - . [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1221%20-%20Fibonacci.c)
+- [ ] [1221](https://judge.beecrowd.com/pt/problems/view/1221) - Primo Rápido. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1221%20-%20Fibonacci.c)
 
 - [x] [1475](https://judge.beecrowd.com/pt/problems/view/1475) - Remendo. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1475%20-%20Fibonacci.c)
 

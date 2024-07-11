@@ -5,12 +5,13 @@ descrição...
 ---
 
 ## Exercicios em C
-- [x] [1002](https://judge.beecrowd.com/pt/problems/view/1002) - Área do Círculo. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1002%20-%20Fibonacci.c)
+- [x] [1002](https://judge.beecrowd.com/pt/problems/view/1002) - Área do Círculo. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.c)
 
-- [x] [1005](https://judge.beecrowd.com/pt/problems/view/1005) - Média I. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1005%20-%20Fibonacci.c)
-- [x] [1006](https://judge.beecrowd.com/pt/problems/view/1006) - Média II. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1006%20-%20Fibonacci.c)
+- [x] [1005](https://judge.beecrowd.com/pt/problems/view/1005) - Média I. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1005%20%20-%20M%C3%A9dia%201.c)
 
-- [x] [1007](https://judge.beecrowd.com/pt/problems/view/1007) - Diferença. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1007%20-%20Fibonacci.c)
+- [x] [1006](https://judge.beecrowd.com/pt/problems/view/1006) - Média II. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1006%20-%20M%C3%A9dia%202.c)
+
+- [x] [1007](https://judge.beecrowd.com/pt/problems/view/1007) - Diferença. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1007%20-%20Diferen%C3%A7a.c)
 
 - [x] [1008](https://judge.beecrowd.com/pt/problems/view/1008) - Salário. [Solution](https://github.com/leonardo-istamilo/learning-exercises/blob/main/Exercicios/Beecrowd/1008%20-%20Fibonacci.c)
 
